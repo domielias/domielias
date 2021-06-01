@@ -47,5 +47,4 @@ I've been studying technology since 2015, and during this time I worked with the
 
 <div align="right">
   
-![ViewCount](https://views.whatilearened.today/views/github/anacaroliness9/anacaroliness9.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://anacaroliness9.github.io/anacaroliness9/)
-  
+![ViewCount](https://views.whatilearened.today/views/github/domielias/domielias.svg)
