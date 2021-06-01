@@ -34,10 +34,16 @@ I've been studying technology since 2015, and during this time I worked with the
 
 ## 🛠️Tech Stack
 - 👩‍💻 Programming Languages
-    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-    ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
-    ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor)&nbsp;
-    ![C#](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=c-sharp)&nbsp;
+* C#
+* C++/C
+* HTML
+* CCS
+* Javascript
+* Ruby (Ruby on Rails).
+* Java (Javalin, JDBC, Hibernate).
+* SQL (PostgreSQL, MySQL).
+* NoSQL (MongoDB)
+* Python
     
 
 ## 💻Coding Activity
