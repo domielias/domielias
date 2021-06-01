@@ -33,7 +33,6 @@ I've been studying technology since 2015, and during this time I worked with the
 
 
 ## 🛠️Tech Stack
-- 👩‍💻 Programming Languages
 * C#
 * C++/C
 * HTML
