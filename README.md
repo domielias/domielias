@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, welcome to my GitHub! <img width="30" src="https://emoji.gg/assets/emoji/2812_wojak_doomer.png" alt="wojak_doomer" />
+# Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" alt="typingcat" />
 <br>
-<img width="30" src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" alt="typingcat" />
-I've been studying technology since 2015, and during this time I worked with the most diverse types of projects like: gamming programming, web programming, desktop programming, business Intelligence (data engineering and architecture), project management, databases administration. 
 
+I've been studying technology since 2015, and during this time I worked with the most diverse types of projects like: gamming programming, web programming, desktop programming, business Intelligence (data engineering and architecture), project management, databases design and POO design. 
 
 
 *Software Enginner Student at [PUCMM](https://www.pucmm.edu.do/)🏢*
@@ -26,17 +25,19 @@ I've been studying technology since 2015, and during this time I worked with the
 <br>
 
 ## 👩‍💻 About me
-* <img width="16" src="https://image.flaticon.com/icons/png/512/330/330375.png" /> I'm from Dominican Republic
-* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
-* 👩‍🏫 Love teaching and sharing knowledge
-* I love to meet new people
+* <img width="16" src="https://image.flaticon.com/icons/png/512/330/330375.png" /> I'm from Dominican Republic.
+* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming.
+* 👩‍🏫 Love teaching and sharing knowledge.
+* I love to learn new things.
+* 👯 I’m looking to collaborate on **other open source projects**.
+
 
 ## 🛠️Tech Stack
 - 👩‍💻 Programming Languages
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
     ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
     ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor)&nbsp;
-    ![C](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=c-sharp)&nbsp;
+    ![C#](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=c-sharp)&nbsp;
     
 
 ## 💻Coding Activity
