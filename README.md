@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" alt="typingcat" />
 <br>
 
-I've been studying technology since 2015, and during this time I worked with the most diverse types of projects like: web development, desktop development, business Intelligence (data engineering and architecture), project management and databases design and POO design. 
+I've been studying technology since 2015, and during this time I worked with the most diverse types of projects like: web development, mobile development desktop development, business Intelligence (data engineering and architecture), project management and databases design and POO design. 
 
 
 *Software Enginner Student at [PUCMM](https://www.pucmm.edu.do/)🏢*
@@ -37,7 +37,8 @@ I've been studying technology since 2015, and during this time I worked with the
 * HTML, CSS
 * Javascript (Node)
 * Ruby (Ruby on Rails).
-* Java (Spring Boot, Javalin, JDBC, Hibernate).
+* Android
+* Java (Spring Boot, Javalin, JDBC, Hibernate, Swing).
 * SQL (PostgreSQL, MySQL, Oracle).
 * NoSQL (MongoDB, Cassandra, Redis)
 * Python (Django)
