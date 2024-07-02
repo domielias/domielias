@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I've been studying technology since 2015, and during this time I worked with the most diverse types of projects like: web development, mobile development desktop development, business Intelligence (data engineering and architecture), project management and databases design and POO design. 
 
 
-*Software Enginner Student at [PUCMM](https://www.pucmm.edu.do/)🏢*
+*Software Enginner*
 
 <br>
 
@@ -38,6 +38,7 @@ I've been studying technology since 2015, and during this time I worked with the
 * Javascript (Node)
 * Ruby (Ruby on Rails).
 * Android
+* Ansible, Bash
 * Java (Spring Boot, Javalin, JDBC, Hibernate, Swing).
 * SQL (PostgreSQL, MySQL, Oracle).
 * NoSQL (MongoDB, Cassandra, Redis)
