@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I've been studying technology since 2015, and during this time I worked with the most diverse types of projects like: web development, mobile development desktop development, business Intelligence (data engineering and architecture), project management and databases design and POO design. 
 
 
-*Software Enginner*
+*I'm a Software Enginner with experience working as a Developer and as a System Administrator*
 
 <br>
 
